@@ -4,7 +4,7 @@
 
 ## 🧐 About Me  
 - 🎓 I'm a **third-year Data Engineering and Analysis student**  
-- 🖥️ I have experience in **Python, R, SQL, and MATLAB**  
+- 🖥️ I have experience in **Python, R, SQL, and Power BI**  
 - 📊 I'm passionate about **data analysis, machine learning, and AI**  
 - 📚 Currently learning **Power BI and advanced ML techniques**  
 - 🚀 Exploring **data visualization, deep learning, and model optimization**  
