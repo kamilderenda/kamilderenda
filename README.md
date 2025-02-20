@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
 <h3 align="center">Data Engineering & Analysis Student | Python | SQL | Machine Learning</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=kamilderenda&label=Profile%20views&color=0e75b6&style=flat" alt="kamilderenda" />
-</p>
 
 ## 🧐 About Me  
 - 🎓 I'm a **third-year Data Engineering and Analysis student**  
