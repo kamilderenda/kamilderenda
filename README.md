@@ -1,13 +1,20 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
-<h3 align="center">Data Engineering & Analysis Student | Python | SQL | Machine Learning</h3>
-
+<h3 align="center">Data Science & Data Engineering Student | Python | SQL | Machine Learning</h3>
 
 ## 🧐 About Me  
-- 🎓 I'm a **third-year Data Engineering and Analysis student**  
-- 🖥️ I have experience in **Python, R, SQL, and Power BI**  
-- 📊 I'm passionate about **data analysis, machine learning, and AI**  
-- 📚 Currently learning **Power BI and advanced ML techniques**  
-- 🚀 Exploring **data visualization, deep learning, and model optimization**  
+- 🎓 **Fourth-year Data Engineering and Analysis student**  
+- 📊 Strong focus on **Data Science, Machine Learning, and AI**  
+- 🖥️ Experience with **Python, R, SQL, and Power BI**  
+- 🤖 Interested in **predictive modeling, feature engineering, and model optimization**  
+- 📚 Currently improving skills in **advanced ML, hyperparameter tuning, and BI reporting**  
+- 🚀 Exploring **deep learning, AutoML, and scalable data pipelines**
+
+## 🔬 Data Science Interests  
+- Supervised & unsupervised learning  
+- Tree-based models (Boosting, Ensembles)  
+- Feature selection & explainability (SHAP, feature importance)  
+- Hyperparameter optimization  
+- Data visualization & storytelling  
 
 ## 🔗 Connect with Me  
 <a href="https://www.linkedin.com/in/kamil-derenda-181ab8275/" target="blank">
@@ -15,48 +22,62 @@
 </a>
 
 ## ⚙️ Languages & Tools  
+
+### 🧠 Machine Learning & Data Science
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <a href="https://xgboost.ai/" target="_blank">
+    <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <a href="https://catboost.ai/" target="_blank">
+    <img src="https://raw.githubusercontent.com/catboost/catboost/master/catboost/docs/images/catboost-logo.png" width="40" height="40"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
+  <a href="https://optuna.org/" target="_blank">
+    <img src="https://optuna.org/assets/img/optuna-logo.png" width="40" height="40"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
   </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-</a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-</a>
+</p>
 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
+### 📊 Data Analysis & Visualization
+<p align="left">
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40"/>
+  </a>
+</p>
 
+### 🗄️ Databases & Engineering
+<p align="left">
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.selenium.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  </a>
 </p>
 
 ## 📊 GitHub Stats  
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamilderenda&show_icons=true&locale=en&layout=compact" alt="kamilderenda" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamilderenda&show_icons=true&locale=en&layout=compact" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamilderenda&show_icons=true&locale=en" alt="kamilderenda" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamilderenda&show_icons=true&locale=en" />
 </p>
