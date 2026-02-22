@@ -9,7 +9,7 @@
 - ☁️ Currently expanding my skills in GenAI and Cloud technologies (GCP, Azure)
 
 ## 🔗 Connect with Me  
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkamil-derenda%2F)
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkamil-derenda%2F?logo=LinkedIn&logoColor=blue&link=LinkedIn)
 ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.kaggle.com%2Fkamilderenda)
 ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2Fkamilderenda)
 
