@@ -19,21 +19,21 @@
 ### 📊 Data Analysis & Exploration
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,r,sql,pandas,numpy,matplotlib,seaborn&perline=4" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,r,pbi,sparksql,pandas,numpy,matplotlib,seaborn&perline=4" />
   </a>
 </p>
 
 ### 🤖 Machine Learning & AI
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,xgboost,catboost,lightgbm,tensorflow,huggingface,optuna,shap&perline=4" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,tensorflow,huggingface&perline=4" />
   </a>
 </p>
 
 ### 🔥 Big Data & Distributed Processing
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=pyspark,databricks,hive,hdfs&perline=4" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pyspark,databricks,hive,hadoop&perline=4" />
   </a>
 </p>
 
