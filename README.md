@@ -10,8 +10,7 @@
 
 ## 🔗 Connect with Me  
 ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkamil-derenda%2F?logo=LinkedIn&logoColor=blue&link=LinkedIn)
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.kaggle.com%2Fkamilderenda)
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2Fkamilderenda)
+
 
 
 # 💻 Tech Stack
@@ -19,35 +18,42 @@
 ### 📊 Data Analysis & Exploration
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,r,pbi,sparksql,pandas,numpy,matplotlib,seaborn&perline=4" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,sql,pandas,numpy,matplotlib,seaborn,r,pbi&perline=4" />
+  </a>
+</p>
+
+### 🔥 Data Engineering & Big Data
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pyspark,databricks,hadoop,hive,kafka,postgresql&perline=4" />
   </a>
 </p>
 
 ### 🤖 Machine Learning & AI
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,tensorflow,huggingface&perline=4" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,xgboost,lightgbm,huggingface,ollama&perline=4" />
   </a>
 </p>
 
-### 🔥 Big Data & Distributed Processing
+### ⚙️ MLOps & Model Lifecycle
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=pyspark,databricks,hive,hadoop&perline=4" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mlflow,prefect,evidently&perline=4" />
   </a>
 </p>
 
-### 🗄️ Databases
+### ☁️ Cloud & DevOps
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,hive" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,docker,githubactions,azuredevops,git,linux,bash,fastapi&perline=4" />
   </a>
 </p>
 
-### ⚙️ MLOps & Engineering
+### 🛠️ Development & Engineering Practices
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,git,linux,azure&perline=4"" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,git,linux,docker&perline=4" />
   </a>
 </p>
 
