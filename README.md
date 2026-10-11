@@ -18,7 +18,7 @@
 ### 📊 Data Analysis & Exploration
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,sql,pandas,numpy,matplotlib,seaborn,r,pbi&perline=4" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,SQLite,pandas,numpy,matplotlib,seaborn,r,pbi&perline=4" />
   </a>
 </p>
 
